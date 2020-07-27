@@ -1,5 +1,5 @@
 # miwok
-An app that displays lists of vocabulary words for the user to learn the Miwok language. 
+An app that displays list of vocabulary words for the user to learn the Miwok language. 
 Under an course of udacity.
 
 # license
